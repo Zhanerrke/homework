@@ -1,0 +1,120 @@
+body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.head{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 40rem;
+    height: 70px;
+}
+.w{
+    font-weight: bold;
+    font-size: 50px;
+    padding-left: 80px;
+    margin-top: 20px;
+    color:black;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.booox{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    gap: 1.5rem;
+    color: black;
+    margin-top: 250px;
+    margin-left: 265px;
+    width: 600px;
+    height:280px ;
+}
+.zh{
+    padding-left: 20px;
+   font-weight: bold;
+}
+
+.p{
+    padding-left: 20px;
+    font-size: 13px;
+    color: rgba(255, 255, 255, 0.689);
+}
+.otr{
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+}
+.bbox{ 
+    height: 440px;
+    background-color: hsl(240, 100%, 5%);
+    color: white;
+    width: 300px;
+    margin-right: 170px;
+    margin-top: 0;
+    padding-top: 0;
+}
+.big{
+    width: 660px;
+    height: 260px;
+    position: absolute;
+    left: 19%;
+    top:11%;
+}
+h1{
+    font-size: 50px;
+    font-weight: bolder;
+}
+button{
+    background-color: hsl(5, 85%, 63%);
+    border: none;
+    color: black;
+    width: 195px;
+    height: 45px;
+    font-size: medium;
+    font-weight: bold;
+}
+h2{
+    color: hsl(35, 77%, 62%);
+    font-size: xx-large;
+    padding-left: 20px;
+}
+hr{
+    width: 250px;
+}
+.m{
+    font-size: medium;
+    font-weight: bold;
+}
+.lk{
+    width: 100px;
+    height: 130px;
+}
+.kkk{
+    display: flex;
+    flex-direction: row;
+    gap: 1.5rem;
+}
+h3{
+    color: hsl(5, 85%, 63%);
+    padding-bottom: 5px;
+    margin: 0;
+    font-size: xx-large;
+}
+h5{
+    color: hsla(240, 100%, 5%, 0.56);
+}
+.olp{
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    margin-left: 100px;
+}
+.ptp{
+    color: rgba(0, 0, 0, 0.617);
+}
